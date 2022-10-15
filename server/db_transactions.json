@@ -1,16 +1,16 @@
 {
   "transactions": [
     {
-      "name": "Salary",
-      "type": "income",
-      "amount": 45000,
-      "id": 1
+      "name": "Tour",
+      "type": "expense",
+      "amount": 5000,
+      "id": 2
     },
     {
-      "name": "House rent",
-      "type": "expense",
-      "amount": 12500,
-      "id": 2
+      "name": "Income",
+      "type": "income",
+      "amount": 40000,
+      "id": 3
     }
   ]
 }
